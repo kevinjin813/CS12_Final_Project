@@ -9,10 +9,7 @@ import java.util.Scanner;
 
 /**
  * This file holds a utility function getWorkEntriesFromCSV() that is used by REPL, tests to create an array of WorkEntry objects.
- * <p><b>You should not edit this file.</b></p> 
- * 
- * @author cs21a
- * @version 1.0
+
  */
 public class InputFileReader {
 	
