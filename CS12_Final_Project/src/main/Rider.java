@@ -2,10 +2,8 @@ package main;
 /**
  * This class build a rider by plugging the ID, the start, and the dest.
  * Known Bugs: None
- * @author Jian Yu
- * email kevinjin813@brandeis.edu
- * 2/27/2020
- * COSI 21A PA1
+ * @author Jian Yu; Yiming Zhang
+
  */
 public class Rider {
 	public String id;

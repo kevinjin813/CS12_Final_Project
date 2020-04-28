@@ -2,10 +2,7 @@ package main;
 /**
  * This class build the station by plugging in name. And within this class you could add train and people in it.
  * Known Bugs: None
- * @author Jian Yu
- * email kevinjin813@brandeis.edu
- * 2/27/2020
- * COSI 21A PA1
+ * @author Jian Yu;Yiming Zhang
  */
 public class Station {
 
