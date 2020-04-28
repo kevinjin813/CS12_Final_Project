@@ -34,7 +34,7 @@ public class Queue<T> {
 			tail++;
 	}
 	/**
-	 * This method take of the front element from the queue
+	 * This method take of the first element from the queue
 	 */
 	public void dequeue() {
 
