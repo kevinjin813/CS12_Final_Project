@@ -5,10 +5,8 @@ import java.util.Scanner;
 /**
  * This class simulates the MBTA system by Times time. And print out every station's status.
  * Known Bugs: None
- * @author Jian Yu
- * email kevinjin813@brandeis.edu
- * 2/27/2020
- * COSI 21A PA1
+ * @author Jian Yu; Yiming Zhang
+
  */
 public class MBTA {
 
